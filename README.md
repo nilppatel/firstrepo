@@ -1,4 +1,4 @@
 # firstrepo
 This is my first git repository
 <br>
-Author - Nilp Patel
+Author - Nilp (Stridely Solutions)
